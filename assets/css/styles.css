@@ -1,0 +1,19 @@
+body{
+    background-image: url(../../assets/img/fondo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.c-1{
+    background-color: transparent !important;
+    border: #000000;
+    box-shadow: 0px 0px 10px rgb(83, 80, 80);
+    border-radius: 8px;
+    width: 1100px !important;
+}
+
+.img-1{
+    border-radius: 4%;
+}
